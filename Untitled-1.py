@@ -1,1 +1,1 @@
-print("kama")
+print(" palavi tulaga manu tuni")
